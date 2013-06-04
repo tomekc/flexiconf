@@ -1,0 +1,19 @@
+Welcome to Grails 1.3.1 - http://grails.org/
+Licensed under Apache Standard License 2.0
+Grails home is set to: /Users/tomek/Devel/Java/grails-1.3.1
+
+Base Directory: /Users/tomek/Devel/Grails/flexiconf
+Resolving dependencies...
+Dependencies resolved in 1400ms.
+Running script /Users/tomek/Devel/Java/grails-1.3.1/scripts/Console.groovy
+Environment set to development
+     [copy] Copied 3 empty directories to 1 empty directory under /Users/tomek/.grails/1.3.1/projects/flexiconf/resources
+    [mkdir] Created dir: /Users/tomek/.grails/1.3.1/projects/flexiconf/plugin-classes
+  [groovyc] Compiling 2 source files to /Users/tomek/.grails/1.3.1/projects/flexiconf/plugin-classes
+    [mkdir] Created dir: /Users/tomek/Devel/Grails/flexiconf/target/classes
+  [groovyc] Compiling 10 source files to /Users/tomek/Devel/Grails/flexiconf/target/classes
+    [mkdir] Created dir: /Users/tomek/.grails/1.3.1/projects/flexiconf/resources/grails-app/i18n
+[native2ascii] Converting 13 files from /Users/tomek/Devel/Grails/flexiconf/grails-app/i18n to /Users/tomek/.grails/1.3.1/projects/flexiconf/resources/grails-app/i18n
+     [copy] Copying 1 file to /Users/tomek/Devel/Grails/flexiconf/target/classes
+     [copy] Copied 2 empty directories to 2 empty directories under /Users/tomek/.grails/1.3.1/projects/flexiconf/resources
+Restarting console
