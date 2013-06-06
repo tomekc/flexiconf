@@ -14,7 +14,7 @@ environments {
 	development {
 		dataSource {
 			dbCreate = "update" // one of 'create', 'create-drop','update'
-			url = "jdbc:h2:tcp://localhost/~/Devel/h2-data/flexiconf"
+			url = "jdbc:h2:file:data/flexiconf-dev"
 		}
 	}
 	test {
@@ -26,7 +26,7 @@ environments {
 	production {
 		dataSource {
 			dbCreate = "update"
-			url = "jdbc:h2:tcp://localhost/~/Devel/h2-data/flexiconf-prod"
+			url = "jdbc:h2:data/flexiconf-prod"
 		}
 	}
 }
